@@ -39,10 +39,8 @@ public class DatoArray_005 {
 
 	/**
 	* Metodo main
-	* Descripcion	Presenta 
-	*
-	*
-	*
+	* Es el metodo que lanza la ejecucion del programa.
+	* Presentar al usuario los valores contenidos en un Array de numeros integer;(enteros)
 	* @author Getomiza
 	* @version 1.0
 	* @see	none

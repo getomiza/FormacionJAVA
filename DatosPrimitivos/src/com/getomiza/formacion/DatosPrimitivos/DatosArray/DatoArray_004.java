@@ -49,7 +49,7 @@ public class DatoArray_004 {
         for (int i = 0; i < array.length; i++) {
             int value = array[i];																																			// Get value.
             System.out.println("[Mensaje 1]El valor contenido en la posicion "+ i + " es: " + value);	
-        }
+        }																																									// Closing for LOOP
      }																																										// Closing the basic constructor method of the class
 	
 	/**

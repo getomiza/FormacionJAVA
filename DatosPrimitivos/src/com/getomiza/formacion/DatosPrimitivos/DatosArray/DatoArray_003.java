@@ -62,7 +62,7 @@ public class DatoArray_003 {
 		for (int i = 0; i < myList.length; i++) {																															// Presents the user the summary value of the Array content
 			total += myList[i];																																				// Sum of the Subtotal with the values entered in the Array
 			System.out.println("El indice es: "+ i+" el sumatorio parcial es: " + total);																					// Presentation of the message to the user with the value operated according to the reading position within the Array
-		}
+		}																																									// Closing the loop 
 
 		System.out.println("El sumatorio total es: " + total);																												// Presentation of the sum total
 		System.out.println("\n");																																			// Separation line
@@ -73,6 +73,6 @@ public class DatoArray_003 {
 		}																																									// Closing the loop for determining the highest value contained in the array
 		
 		System.out.println("Siendo el valor maximo contenido en el Array: " + max);																							// Presentation of the highest value
-		System.out.println("Estando en la posicion [" + highestvalueindex +"] del Array");																					// Presentation of the index highest value
+		System.out.println("Estando en la posicion [" + highestvalueindex + "] del Array");																					// Presentation of the index highest value
 	}																																										// Closing the Method main
 }																																											// Closing of the Class DatoArray_003

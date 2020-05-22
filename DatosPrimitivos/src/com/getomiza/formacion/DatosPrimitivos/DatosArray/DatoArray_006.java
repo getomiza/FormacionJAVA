@@ -23,8 +23,8 @@ public class DatoArray_006 {
 	// Methods
 	
 	/**
-	 * Method Name: DatoArray_006
-	 * Description: Es el metodo constructor de la clase
+	* Method Name: DatoArray_006
+	* Es el metodo constructor de la clase, que en este caso no realiza nada de nada
 	* @author Javier Casalengua Durán
 	* @version 1.0
 	* @see	none
@@ -35,14 +35,12 @@ public class DatoArray_006 {
 	*/
 	public DatoArray_006() {
 		// TODO Auto-generated constructor stub
-	}
+	}																																										// Closing the basic constructor method of the class
 
 	/**
 	* Metodo main
-	* Descripcion	Presenta 
-	*
-	*
-	*
+	* Es el metodo que lanza la ejecucion del programa.
+	* Presentar al usuario los valores contenidos en un Array de tipo char;(caracteres)
 	* @author Javier Casalengua Durán
 	* @version 1.0
 	* @see	none
